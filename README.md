@@ -13,17 +13,21 @@ Este programa em C gera a tabuada de um número inteiro fornecido pelo usuário,
 	Exibe a tabuada do número fornecido até o tamanho especificado.
 
 📋 Pré-requisitos
+	
 	Um compilador C (como GCC) instalado em sua máquina.
 	Conhecimentos básico em C.
 
 🔧 Instalação
+	
 	Devc++
 	Codeblocks
 
 🛠️Execução Online
+	
 	https://www.onlinegdb.com/
 
 ⚙️ Executando os testes
+	
 	Digite um número: 5
 	Digite o tamanho da tabuada: 10
 
@@ -49,6 +53,7 @@ Este programa em C gera a tabuada de um número inteiro fornecido pelo usuário,
 	Essa versão é gerador_tabuada_v1.0
 
 ✒️ Autores
+	
 	#Kundiama_TI
 
 	📄 Engº Diasilua Paulo Simão
